@@ -1,2 +1,5 @@
 creds.py
+__pycache__
 .ipynb_checkpoints
+nbastandings_normalized.xlsx
+json2csv.ipynb
