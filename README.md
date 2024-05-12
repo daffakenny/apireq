@@ -3,6 +3,14 @@
 Personal Project on learning API requests, Json file handling from API, converting JSON into CSV to be used on Jupyter, and basic analysis on available data.
 
 ## Changelog (DD/MM/YYYY)
+<details><summary><b>12/05/2024</b></summary>
+  
+1. json2csv is deprecated.
+2. _data_prep.ipynb_  prepares and combines different datasets for EDA.
+3. Final dataset can be found in _nbateamstats_final.csv_ and _nbateamstats_final.xlsx_.
+
+</details>
+
 <details><summary><b>11/05/2024</b></summary>
   
 1. Conversion from JSON to .csv can now be done within python.
