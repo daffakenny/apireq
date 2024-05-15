@@ -1,8 +1,16 @@
 # Personal Project on Learning API Request, Json, SQL, and Python
 
-Personal Project on learning API requests, Json file handling from API, converting JSON into CSV to be used on Jupyter, and basic analysis on available data.
+Personal Project on learning API requests, Json file handling from API, converting JSON into CSV to be used on Jupyter, and basic analysis on available data. Published on [Medium](https://medium.com/@daffakenny/exploratory-data-analysis-on-nba-stats-that-might-matter-3a937c3a99f9).
 
 ## Changelog (DD/MM/YYYY)
+<details><summary><b>15/05/2024</b></summary>
+  
+1. Finished EDA on Jupyter Notebook.
+2. Published findings on [Medium](https://medium.com/@daffakenny/exploratory-data-analysis-on-nba-stats-that-might-matter-3a937c3a99f9).
+
+
+</details>
+
 <details><summary><b>12/05/2024</b></summary>
   
 1. json2csv is deprecated.
